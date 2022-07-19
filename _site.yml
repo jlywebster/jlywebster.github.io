@@ -11,17 +11,15 @@ navbar:
       href: presentations.html
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:<lg688@drexel.edu>
+      href: mailto:<jlw494@drexel.edu>
     - icon: fa-github fa-lg
-      href: https://github.com/LizbethGomez
+      href: https://github.com/jlywebster
     - icon: fa-twitter fa-lg
-      href: https://twitter.com/LizbethGomezF
+      href: https://twitter.com/jlywebster
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/lizbeth-gomez
-    - icon: fa-solid fa-map
-      href: https://storymaps.arcgis.com/stories/21b5deac6bce40dc9f664d5ba1c5ded8
+      href: https://www.linkedin.com/in/jessica-webster-235352175/
     - icon: fa-google fa-lg
-      href: https://scholar.google.com/citations?user=1ZYXZL0AAAAJ&hl=en
+      href: https://scholar.google.com/citations?user=NxIuP5IAAAAJ&hl=en
 output:
   html_document:
     theme: paper
